@@ -75,15 +75,9 @@ value: string (optional)
 	class="sv-checkbox-input"
 />
 <!-- Rendering the text beside the checkbox -->
-<<<<<<< HEAD
-<label class="sv-checkbox-label" style={checkBoxLabelStyle + defaultStyle} for={id}>
-	{checkBoxLabel}
-</label>
-=======
 <label style={checkBoxLabelStyle + defaultStyle} for={id} class="sv-checkbox-label">
 	{checkBoxLabel}
 </label><br />
->>>>>>> main
 
 <style>
 </style>
